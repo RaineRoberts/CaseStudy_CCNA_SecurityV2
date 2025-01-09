@@ -6,7 +6,11 @@ CCNA Security V2.0: Configure, secure and troubleshoot network technologies and 
 This Case Study Includes the Following Implementations:
 
 >Basic Switch, Router and Firewall Configuration - Complete
+
 >Router to Firewall IPSec VPN Tunnel - Complete
+
 >Inter-site connectivity - Complete
+
 >NAT/PAT - Complete
+
 >DMZ Server - Complete
